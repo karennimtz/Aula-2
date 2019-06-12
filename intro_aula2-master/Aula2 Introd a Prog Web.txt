@@ -1,0 +1,22 @@
+listas servem para agrupar elementos e informações, quando vem um ao lado ou debaixo do outro
+tags: 
+ul: lista sem ordem, com bolinhas à esquerda
+ol: lista com ordem, aparece numerado
+
+div é uma caixinha, um conteiner. 
+site spotify, em cima é o head cheio de divs.
+
+
+Qd eu coloco entre H1 é o titulo naquela ordem hierarquica
+
+Imagens:
+src vai buscar o caminho da pasta
+alt é um codgo de acessibilidade para deficientes visuais
+
+./ é quando a pasta da imagem esta na mesma do arquivo html
+../quando esta numa pagina anterior
+
+form ta fazendo um formulario
+shift alt e pra baixo vai copiando as linhas
+
+</br> pula linhas
